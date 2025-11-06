@@ -655,6 +655,15 @@
         }
     </style>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G9WBG53PN8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G9WBG53PN8');
+</script>
 <meta name="google-site-verification" content="nvm4ao1jgrljpBtBW4xfDtqBAr6PbMAlSoRn74NhHZM" />
 google-site-verification: googlecd23e4156500bfbe.html
 <meta name="google-site-verification" content="nvm4ao1jgrljpBtBW4xfDtqBAr6PbMAlSoRn74NhHZM" />
